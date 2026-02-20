@@ -1,0 +1,6 @@
+{
+  "name": "ai-cli-plugin",
+  "description": "Example CLI plugin for testing",
+  "version": "1.0.0",
+  "skills": ["skills/"]
+}
